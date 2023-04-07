@@ -1,0 +1,6 @@
+[submodule "repos/constructive-nominal"]
+	path = repos/constructive-nominal
+	url = https://github.com/fasapa/nominal
+[submodule "repos/nominal-aphacompat"]
+	path = repos/nominal-aphacompat
+	url = https://github.com/fasapa/nominal-copello
